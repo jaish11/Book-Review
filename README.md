@@ -17,4 +17,4 @@ A REST API for managing books and reviews built with Node.js, Express, and Mongo
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/book-review-api.git
-   cd book-review-api
+   cd book-review
